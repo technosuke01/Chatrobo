@@ -8,6 +8,6 @@
 	<ModulePrefs title="Tutorial_02_UI_Setup" height="250">
 	</ModulePrefs>
 	<Content type="html" href="bot_test.html"/>
-	<script type = "text / javascript" src = "/javascripts/application.js" > </script>  
-	<script type = "text / javascript" src = "/javascripts/repl-ai-widget.js" > </script>  
+	<script type = "text / javascript" src = "application.js" > </script>  
+	<script type = "text / javascript" src = "repl-ai-widget.js" > </script>  
 </Module>
